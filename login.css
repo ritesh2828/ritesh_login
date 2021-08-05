@@ -1,0 +1,33 @@
+ body {
+  background-color: lightblue;
+}
+h1{
+     color:burlywood;
+       margin-left: 500px;
+}
+.user1{
+      margin-left: 500px;
+     border:2px red solid;
+     height:200px;
+     width: 300;
+     background-color: green;
+}
+.user2{
+       margin-left: 10px;
+       margin-top: 20px;
+       text-align: center;
+}
+.user3{
+  margin-left: 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+.user-1{
+  margin-top: 50px;
+  margin-left:90px;
+}
+.out-1{
+   background-color:yellow;
+   font-family: cursive;
+   font-size: 20px;
+} 
